@@ -17,6 +17,5 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_644.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_760.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_851.jpg)
-Object localization using only image-level annotation, without bounding box annotation.
 
-# pytorch-CAM
+Object localization using only image-level annotation, without bounding box annotation.
