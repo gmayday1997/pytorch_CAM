@@ -1,4 +1,4 @@
-# Discriminative Localization with Image-Level Label
+# Discriminative Localization with Image-Level Annotation
 Pytorch implementation of "Learning Deep Features for Discriminative Localization"
 
 B. Zhou, A. Khosla, A. Lapedriza, A. Oliva, and A. Torralba
@@ -17,5 +17,3 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_644.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_760.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_851.jpg)
-
-Object localization using only image-level annotation, without bounding box annotation.
