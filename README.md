@@ -35,10 +35,10 @@ cd $CAM_ROOT
 ```
 ### Beyond the demo: Training and Testing
 
-**Train:**
+### Train:
 set train_flag = True in action40_config.py.
 run train_action40.py.
-**Test:**
+### Test:
 set train_flag = False in action40_config.py.
 run test_action40.py
 
