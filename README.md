@@ -11,10 +11,11 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 2. [Data and Pretrain Model](#data-and-pretrain-model)
 3. [Demo](#demo)
 4. [Beyond the demo:Training and Testing](#Beyond-the-demo-training-and-testing)
-5. [Results of Action40 Dataset](#Results-of-Action40-Dataset)
+5. [Results of Action40 Dataset](#Results)
 
 ### Basic installation
- Requirements for 'pytorch'(see: [pytorch installation instuctions](http://pytorch.org/))
+ Requirements for pytorch (see: [pytorch installation instuctions](http://pytorch.org/))
+ 
 ### Data and Pretrain Model
 
 - Action40 datasets
@@ -25,6 +26,7 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
      - [action_40_pretrain_model.pth](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
      
 ### Demo
+
 After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain-model), you will be 
 ready to run the demo.
 ```Shell
@@ -32,14 +34,15 @@ cd $CAM_ROOT
 ./demo.py
 ```
 ### Beyond the demo: Training and Testing
-**Train**
+
+**Train:**
 set train_flag = True in action40_config.py
 run train_action40.py
-**Test**
+**Test:**
 set train_flag = False in action40_config.py
 run test_action40.py
 
-### Results of Action40 Dataset
+### Results
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_0.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_67.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_311.jpg)
