@@ -18,7 +18,6 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 ### Data and Pretrain Model
 
 - Action40 datasets
-     - [action_dataset.tar](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
      - [action_dataset.tar](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
      - [class_id.json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
 - Pretrain Models
