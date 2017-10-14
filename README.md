@@ -11,7 +11,7 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 2. [Data and Pretrain Model](#data-and-pretrain-model)
 3. [Demo](#demo)
 4. [Beyond the demo:Training and Testing](#Beyond-the-demo-training-and-testing)
-5. [Results of Action40 Dataset](#Results-of-Action-40-Dataset)
+5. [Results of Action40 Dataset](#Results-of-Action40-Dataset)
 
 ### Basic installation
  Requirements for 'pytorch'(see: [pytorch installation instuctions](http://pytorch.org/))
@@ -31,7 +31,7 @@ ready to run the demo.
 cd $CAM_ROOT
 ./demo.py
 ```
-### Beyond the demo: Traing and Testing
+### Beyond the demo: Training and Testing
 **Train**
 set train_flag = True in action40_config.py
 run train_action40.py
