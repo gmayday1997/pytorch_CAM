@@ -6,6 +6,18 @@ Learning Deep Features for Discriminative Localization.
 Computer Vision and Pattern Recognition (CVPR), 2016.
 [[PDF](http://arxiv.org/pdf/1512.04150.pdf)][[Project Page](http://cnnlocalization.csail.mit.edu/)]
 
+### Contents
+1. [Basic installation](#installation)
+2. [Data and Pretrain Model](#Data and Pretrain Model)
+3. [Demo](#demo)
+4. [Beyond the demo : Training and Testing](#Training and Testing)
+
+### Baisc installation
+ Requirements for 'pytorch'(see: [pytorch installation instuctions](http://pytorch.org/http://pytorch.org/))
+### Data and Pretrain Model
+- Action40 datasets
+  - []
+
 ### Results of Action40 Dataset
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_0.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_67.jpg)
