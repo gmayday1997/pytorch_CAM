@@ -18,11 +18,11 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 ### Data and Pretrain Model
 
 - Action40 datasets
-     -[Action40_Dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
-     -[class_id_json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
+     - [Action40_Dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
+     - [class_id_json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
 - Pretrain Models
-     -[VGG16_converted_from_Caffe](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
-     -[Action40_pretrain_model](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
+     - [VGG16_converted_from_Caffe](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
+     - [Action40_pretrain_model](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
   
 ### Demo
 After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain-model), you will be 
@@ -33,11 +33,11 @@ cd $CAM_ROOT
 ```
 ### Beyond the demo: Traing and Testing
 **Train**
-1. set train_flag = True in action40_config.py
-2. run train_action40.py
+set train_flag = True in action40_config.py
+run train_action40.py
 **Test**
-1. set train_flag = False in action40_config.py
-2. run test_action40.py
+set train_flag = False in action40_config.py
+run test_action40.py
 
 ### Results of Action40 Dataset
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_0.jpg)
