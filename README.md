@@ -7,7 +7,7 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 [[PDF](http://arxiv.org/pdf/1512.04150.pdf)][[Project Page](http://cnnlocalization.csail.mit.edu/)]
 
 ### Contents
-1. [Basic installation](#installation)
+1. [Basic installation](#basic-installation)
 2. [Data and Pretrain Model](#data-and-pretrain-model)
 3. [Demo](#demo)
 4. [Beyond the demo:Training and Testing](#training-and-testing)
