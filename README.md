@@ -8,24 +8,25 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 
 ### Contents
 1. [Basic installation](#installation)
-2. [Data and Pretrain Model](#data)
+2. [Data and Pretrain Model](#data and pretrain model)
 3. [Demo](#demo)
-4. [Beyond the demo : Training and Testing](#training and testing)
-5. [Results of Action40 Dataset]
+4. [Beyond the demo:Training and Testing](#training and testing)
+5. [Results of Action40 Dataset](#Results)
 
 ### Baisc installation
  Requirements for 'pytorch'(see: [pytorch installation instuctions](http://pytorch.org/http://pytorch.org/))
 ### Data and Pretrain Model
 
 - Action40 datasets
-  -[Action40_Dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
-  -[class_id_json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
+     -[Action40_Dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
+     -[class_id_json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
 - Pretrain Models
-  -[VGG16_converted_from_Caffe](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
-  -[Action40_pretrain_model](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
+     -[VGG16_converted_from_Caffe](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
+     -[Action40_pretrain_model](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
   
 ### Demo
-After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#Data), you will be ready to run the demo
+After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data), you will be 
+ready to run the demo
 To run the demo
 '''Shell
 cd $CAM_ROOT
@@ -43,11 +44,8 @@ cd $CAM_ROOT
 ### Results of Action40 Dataset
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_0.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_67.jpg)
-![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_270.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_311.jpg)
-![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_315.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_400.jpg)
-![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_552.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_644.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_760.jpg)
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_851.jpg)
