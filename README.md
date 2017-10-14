@@ -36,11 +36,9 @@ cd $CAM_ROOT
 ### Beyond the demo: Training and Testing
 
 ### Train:
-set train_flag = True in action40_config.py.
-run train_action40.py.
+set train_flag = True in action40_config.py , then run train_action40.py.
 ### Test:
-set train_flag = False in action40_config.py.
-run test_action40.py
+set train_flag = False in action40_config.py , then run test_action40.py
 
 ### Results
 ![alt tag](https://github.com/gmayday1997/pytorch-CAM/blob/master/results/cam_0.jpg)
