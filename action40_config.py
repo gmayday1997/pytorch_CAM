@@ -1,11 +1,18 @@
 import os
 
+def check_dir(file_path):
+    
+    if not os.path.exists(file_path):
+        os.mkdir(file_path)
+
 class config():
     def __init__(self):
 
         self.py_dir = os.getcwd()
         self.data_dir = os.path.join(self.py_dir,'data')
+        check_dir(self.data_dir)
         self.save_ckpt_dir = os.path.join(self.py_dir,'ckpt')
+        check_dir(self.save_ckpt_dir)
         self.class_info_dir = os.path.join(self.data_dir,'class.json')
         self.best_ckpt_dir = os.path.join(self.save_ckpt_dir,'model_best.pth')
         self.height = 224
