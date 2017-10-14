@@ -18,11 +18,11 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 ### Data and Pretrain Model
 
 - Action40 datasets
-     - [Action_40_Dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
+     - [action_40_dataset_tar.gz](https://drive.google.com/file/d/0B71WibNFGUgaYkZNR2FqQ0hNOXc/view?usp=sharing)
      - [class_id.json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
 - Pretrain Models
-     - [VGG_16_converted_from_Caffe.pth](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
-     - [Action_40_pretrain_model.pth](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
+     - [vgg_16_converted_from_caffe.pth](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
+     - [action_40_pretrain_model.pth](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
   
 ### Demo
 After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain-model), you will be 
