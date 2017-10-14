@@ -22,9 +22,8 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
      - [class_id.json](https://drive.google.com/file/d/0B71WibNFGUgackc5NW1QQ0JiOFk/view?usp=sharing)
 - Pretrain Models
      - [vgg_16_converted_from_caffe.pth](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
-     - [vgg_16_converted_from_caffe.pth](https://drive.google.com/file/d/0B71WibNFGUgad1dWeS1lbHV3R0E/view?usp=sharing)
-     - [action_40_pretrain_model.pth](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
-  
+     - [action_40_pretrain_model.pth](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
+     
 ### Demo
 After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain-model), you will be 
 ready to run the demo.
