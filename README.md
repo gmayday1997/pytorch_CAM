@@ -8,7 +8,7 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
 
 ### Contents
 1. [Basic installation](#installation)
-2. [Data and Pretrain Model](#data-and-pretrain model)
+2. [Data and Pretrain Model](#data-and-pretrain-model)
 3. [Demo](#demo)
 4. [Beyond the demo:Training and Testing](#training-and-testing)
 5. [Results of Action40 Dataset](#Results)
@@ -25,7 +25,7 @@ Computer Vision and Pattern Recognition (CVPR), 2016.
      -[Action40_pretrain_model](https://drive.google.com/file/d/0B71WibNFGUgaOXg5YzRMRXFPRlU/view?usp=sharing)
   
 ### Demo
-After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain model), you will be 
+After sucessfully completing [Basic installation](#installation) and [Data and Pretrain Model](#data-and-pretrain-model), you will be 
 ready to run the demo.
 ```Shell
 cd $CAM_ROOT
